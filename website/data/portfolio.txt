@@ -1,0 +1,3 @@
+Hello, my name is Jacob Schnoor. I am currently a junior at Rosemount High School who is taking a course in data structures in Java. 
+Email: 761917@apps.district196.org 
+Phone #: 651-214-8554
